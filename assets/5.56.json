@@ -1,0 +1,47 @@
+{
+    "type":"bullet",
+    "code":"5.56",
+    "version": 1,
+    "power": 2,
+    "speed": 100,
+    "animation" : {
+        "image":"5.56.png",
+        "width":4,
+        "height":4,
+        "frameRate": 1,
+        "frame":{
+            "up": {
+                "start":0,
+                "end":0
+            },
+            "rightup": {
+                "start":1,
+                "end":1
+            },
+            "right": {
+                "start":2,
+                "end":2
+            },
+            "rightdown": {
+                "start":3,
+                "end":3
+            },
+            "down": {
+                "start":4,
+                "end":4
+            },
+            "leftdown": {
+                "start":5,
+                "end":5
+            },
+            "left": {
+                "start":6,
+                "end":6
+            },
+            "leftup": {
+                "start":7,
+                "end":7
+            }
+        }
+    }
+}

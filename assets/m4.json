@@ -1,0 +1,127 @@
+{
+    "type":"rifle",
+    "code":"m4",
+    "bullet": "5.56",
+    "version": 1,
+    "round":30,
+    "animation" : {
+        "image":"m4.png",
+        "width":32,
+        "height":32,
+        "frameRate": 8,
+        "frame":{
+            "up": {
+                "start":24,
+                "end":29
+            },
+            "down": {
+                "start":42,
+                "end":47
+            },
+            "left": {
+                "start":30,
+                "end":35
+            },
+            "right": {
+                "start":36,
+                "end":41
+            },
+            "leftup": {
+                "start":6,
+                "end":11
+            },
+            "leftdown": {
+                "start":18,
+                "end":23
+            },
+            "rightup": {
+                "start":12,
+                "end":17
+            },
+            "rightdown": {
+                "start":0,
+                "end":5
+            },
+            "up2rightup": {
+                "frameRate": 6,
+                "repeat": 0,
+                "frames":[24, 12]
+            },
+            "rightup2right": {
+                "frameRate": 6,
+                "repeat": 0,
+                "frames":[12, 36]
+            },
+            "right2rightdown": {
+                "frameRate": 6,
+                "repeat": 0,
+                "frames":[36, 0]
+            },
+            "rightdown2down": {
+                "frameRate": 6,
+                "repeat": 0,
+                "frames":[0, 42]
+            },
+            "down2leftdown": {
+                "frameRate": 6,
+                "repeat": 0,
+                "frames":[42, 18]
+            },
+            "leftdown2left": {
+                "frameRate": 6,
+                "repeat": 0,
+                "frames":[18, 30]
+            },
+            "left2leftup": {
+                "frameRate": 6,
+                "repeat": 0,
+                "frames":[30, 6]
+            },
+            "leftup2up": {
+                "frameRate": 6,
+                "repeat": 0,
+                "frames":[6, 24]
+            },
+            "up2leftup": {
+                "frameRate": 6,
+                "repeat": 0,
+                "frames":[24, 6]
+            },
+            "leftup2left": {
+                "frameRate": 6,
+                "repeat": 0,
+                "frames":[6, 30]
+            },
+            "left2leftdown": {
+                "frameRate": 6,
+                "repeat": 0,
+                "frames":[30, 18]
+            },
+            "leftdown2down": {
+                "frameRate": 6,
+                "repeat": 0,
+                "frames":[18, 42]
+            },
+            "down2rightdown": {
+                "frameRate": 6,
+                "repeat": 0,
+                "frames":[42, 0]
+            },
+            "rightdown2right": {
+                "frameRate": 6,
+                "repeat": 0,
+                "frames":[0, 36]
+            },
+            "right2rightup": {
+                "frameRate": 6,
+                "repeat": 0,
+                "frames":[36, 12]
+            },
+            "rightup2up": {
+                "frameRate": 6,
+                "repeat": 0,
+                "frames":[12, 24]
+            }
+        }
+    }
+}

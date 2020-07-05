@@ -1,0 +1,11 @@
+{
+    "unitList":[
+        "infantry-us"
+    ],
+    "weaponList": [
+        "m4"
+    ],
+    "bulletList": [
+        "5.56"
+    ]
+}
